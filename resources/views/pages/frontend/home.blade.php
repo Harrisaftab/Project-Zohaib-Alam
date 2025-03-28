@@ -376,7 +376,7 @@
                         <div class="counter_box">
                             <h2 class="counter_strok_text counter" aria-label="20+">20+</h2>
                             <h2 class="counter" aria-label="20+">20+</h2>
-                            <p class="satoshi_fontfamily fw_500 line_height_normal">Skilled Trainers</p>
+                            <p class="satoshi_fontfamily fw_500 line_height_normal">Programs & Sessions</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
