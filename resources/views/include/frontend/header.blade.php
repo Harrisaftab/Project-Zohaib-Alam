@@ -9,7 +9,7 @@
                                 <div class="col-xl-2 col-6">
                                     <div class="header_logo">
                                         <a href="{{ route('home') }}" class="custom_cursor_orangeglow">
-                                            <img src="assets/images/logos/gymort_logo.png" alt="header_logo" class="img-fluid">
+                                            <img src="#" alt="header_logo" class="img-fluid">
                                         </a>
                                     </div>
                                 </div>
@@ -407,7 +407,7 @@
                                                         <div class="custome_sidebar_upper">
                                                             <div class="toggle_menu_logo orangeglow">
                                                                 <a href="{{ route('home') }}">
-                                                                    <img src="assets/images/logos/gymort_logo.png" alt="gymort_logo">
+                                                                    <img src="#" alt="zohaibalam_logo">
                                                                 </a>
                                                             </div>
                                                             <div class="orangeglow">

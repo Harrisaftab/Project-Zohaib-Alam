@@ -27,7 +27,7 @@
                                 <div class="col-xl-4 col-lg-3 col-sm-6">
                                     <div class="footer_logo_area">
                                         <a href="javascript:void(0);" class="footer_logo reveal custom_zoom_in d-block">
-                                            <img src="assets/images/logos/gymort_logo.png" alt="gymort_logo">
+                                            <img src="#" alt="zohaibalam_logo">
                                         </a>
                                         <p class="satoshi_fontfamily line_height_30 fw_500 color_lightgray reveal custom_zoom_in">Please fell free to send us an email at <a href="mailto:hello@gymort.com" class="color_lightgray triners_icons">hello@gymort.com</a> for any additional inquiries</p>
                                     </div>
