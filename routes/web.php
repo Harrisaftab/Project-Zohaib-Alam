@@ -11,7 +11,7 @@ use App\Http\Controllers\Frontend\ShopController;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
 Route::get('/blog', [BlogController::class, 'index'])->name('blog.index');
-Route::get('/service', [ServiceController::class, 'index'])->name('service.index');
+Route::get('/services', [ServiceController::class, 'index'])->name('service.index');
 Route::get('/shop', [ShopController::class, 'index'])->name('shop');
 
 
