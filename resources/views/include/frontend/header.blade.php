@@ -15,356 +15,48 @@
                                 </div>
                                 <div class="col-xl-8 col-12 d-xl-block d-none">
                                     <div class="desktop_navbar">
-                                        <nav>
+                                        {{-- <nav>
                                             <ul class="dasktop_navlist satoshi_fontfamily">
                                                 <li class="nav-items">
                                                     <a href="{{ route('home') }}" class="nav-links active custom_cursor_orangeglow">Home
-                                                        {{-- <span>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-                                                                <path d="M0 0H24V24H0V0Z" fill="white"/>
-                                                                </mask>
-                                                                <g>
-                                                                <path d="M6 9L12 15L18 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                                </g>
-                                                            </svg>                                                                
-                                                        </span> --}}
                                                     </a>
-                                                    {{-- <div class="custome_dropdown mega_dropdown custome_dropdown_1">
-                                                        <ul>
-                                                            <li class="nav-items">
-                                                                <a href="{{ route('home') }}" class="nav-links active">
-                                                                    <div>
-                                                                        <div class="mega_menu_img">
-                                                                            <img src="assets/images/dummy-img/header_preview_img.png" alt="nav_preview">
-                                                                        </div>
-                                                                    </div>
-                                                                    <span class="custom_cursor_orangeglow">Home 1</span>
-                                                                </a>
-                                                            </li>
-                                                            <li class="nav-items">
-                                                                <a href="index-2.html" class="nav-links">
-                                                                    <div>
-                                                                        <div class="mega_menu_img">
-                                                                            <img src="assets/images/dummy-img/header_preview_img.png" alt="nav_preview">
-                                                                        </div>
-                                                                    </div>
-                                                                    <span class="custom_cursor_orangeglow">Home 2</span>
-                                                                </a>
-                                                            </li>
-                                                            <li class="nav-items">
-                                                                <a href="index-3.html" class="nav-links">
-                                                                    <div>
-                                                                        <div class="mega_menu_img">
-                                                                            <img src="assets/images/dummy-img/header_preview_img.png" alt="nav_preview">
-                                                                        </div>
-                                                                    </div>
-                                                                    <span class="custom_cursor_orangeglow">Home 3</span>
-                                                                </a>
-                                                            </li>
-                                                            <li class="nav-items">
-                                                                <a href="index-4.html" class="nav-links">
-                                                                    <div>
-                                                                        <div class="mega_menu_img">
-                                                                            <img src="assets/images/dummy-img/header_preview_img.png" alt="nav_preview">
-                                                                        </div>
-                                                                    </div>
-                                                                    <span class="custom_cursor_orangeglow">Home 4</span>
-                                                                </a>
-                                                            </li>
-                                                            <li class="nav-items">
-                                                                <a href="index-5.html" class="nav-links">
-                                                                    <div>
-                                                                        <div class="mega_menu_img">
-                                                                            <img src="assets/images/dummy-img/header_preview_img.png" alt="nav_preview">
-                                                                        </div>
-                                                                    </div>
-                                                                    <span class="custom_cursor_orangeglow">Home 5</span>
-                                                                </a>
-                                                            </li>
-                                                        </ul>
-                                                    </div> --}}
                                                 </li>
                                                 <li class="nav-items">
-                                                    <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Pages
-                                                        <span>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-                                                                <path d="M0 0H24V24H0V0Z" fill="white"/>
-                                                                </mask>
-                                                                <g>
-                                                                <path d="M6 9L12 15L18 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                                </g>
-                                                            </svg>                                                                
-                                                        </span>
+                                                    <a href="{{ route('shop') }}" class="nav-links custom_cursor_orangeglow">Programs
                                                     </a>
-                                                    <ul class="custome_dropdown custome_dropdown_2">
-                                                        <li class="nav-items"><a href="about-us.html" class="nav-links custom_cursor_orangeglow">About Us</a></li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Our Team</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_1">
-                                                                <li class="nav-items">
-                                                                    <a href="our-team-v1.html" class="nav-links custom_cursor_orangeglow">Team V1</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="our-team-v2.html" class="nav-links custom_cursor_orangeglow">Team V2</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items"><a href="BMI-calculator.html" class="nav-links custom_cursor_orangeglow">BMI Calculator</a></li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Timetable</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_2">
-                                                                <li class="nav-items">
-                                                                    <a href="class-timetable.html" class="nav-links custom_cursor_orangeglow">Class Timetable</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-class-timetable.html" class="nav-links custom_cursor_orangeglow">Single Class Timetable</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items"><a href="our-program.html" class="nav-links custom_cursor_orangeglow">Our Program</a></li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Pricing</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_3">
-                                                                <li class="nav-items">
-                                                                    <a href="pricing-plans-v1.html" class="nav-links custom_cursor_orangeglow">Pricing V1</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="pricing-plans-v2.html" class="nav-links custom_cursor_orangeglow">Pricing V2</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items"><a href="faqs.html" class="nav-links custom_cursor_orangeglow">FAQs</a></li>
-                                                        <li class="nav-items"><a href="coming-soon.html" class="nav-links custom_cursor_orangeglow">Coming Soon</a></li>
-                                                        <li class="nav-items"><a href="error-404.html" class="nav-links custom_cursor_orangeglow">Error 404</a></li>
-                                                    </ul>
                                                 </li>
                                                 <li class="nav-items">
-                                                    <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Projects
-                                                        <span>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-                                                                <path d="M0 0H24V24H0V0Z" fill="white"/>
-                                                                </mask>
-                                                                <g>
-                                                                <path d="M6 9L12 15L18 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                                </g>
-                                                            </svg>                                                                
-                                                        </span>
+                                                    <a href="{{ route('service.index') }}" class="nav-links custom_cursor_orangeglow">Services
                                                     </a>
-                                                    <ul class="custome_dropdown custome_dropdown_3">
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Grids</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_4">
-                                                                <li class="nav-items">
-                                                                    <a href="project-grid-2-column.html" class="nav-links custom_cursor_orangeglow">Grid 2 Columns</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-grid-3-column.html" class="nav-links custom_cursor_orangeglow">Grid 3 Columns</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-grid-4-column.html" class="nav-links custom_cursor_orangeglow">Grid 4 Columns</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Grid Wide</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_5">
-                                                                <li class="nav-items">
-                                                                    <a href="project-grid-wide-3-column.html" class="nav-links custom_cursor_orangeglow">3 Columns Wide</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-grid-wide-4-column.html" class="nav-links custom_cursor_orangeglow">4 Columns Wide</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-grid-wide-5-column.html" class="nav-links custom_cursor_orangeglow">5 Columns Wide</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Masonry</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_6">
-                                                                <li class="nav-items">
-                                                                    <a href="project-masonry-v1.html" class="nav-links custom_cursor_orangeglow">Masonry V1</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-masonry-v2.html" class="nav-links custom_cursor_orangeglow">Masonry V2</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-masonry-v3.html" class="nav-links custom_cursor_orangeglow">Masonry V3</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-masonry-v4.html" class="nav-links custom_cursor_orangeglow">Masonry V4</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Gallery</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_7">
-                                                                <li class="nav-items">
-                                                                    <a href="grid-gallery.html" class="nav-links custom_cursor_orangeglow">Grid Gallery</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="joined-gallery.html" class="nav-links custom_cursor_orangeglow">Joined Gallery</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Single Images</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_8">
-                                                                <li class="nav-items">
-                                                                    <a href="project-single-images.html" class="nav-links custom_cursor_orangeglow">Images</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-small-images.html" class="nav-links custom_cursor_orangeglow">Small Images</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-big-images.html" class="nav-links custom_cursor_orangeglow">Big Images</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Single Slider</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_9">
-                                                                <li class="nav-items">
-                                                                    <a href="project-single-slider.html" class="nav-links custom_cursor_orangeglow">Slider</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-small-slider.html" class="nav-links custom_cursor_orangeglow">Small Slider</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="project-big-slider.html" class="nav-links custom_cursor_orangeglow">Big Slider</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items"><a href="project-single-video.html" class="nav-links custom_cursor_orangeglow">Single Video</a></li>
-                                                    </ul>
                                                 </li>
                                                 <li class="nav-items">
-                                                    <a href="javascript:void(0);" class="nav-links custom_cursor_orangeglow">Blog
-                                                        <span>
-                                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-                                                                <path d="M0 0H24V24H0V0Z" fill="white"/>
-                                                                </mask>
-                                                                <g>
-                                                                <path d="M6 9L12 15L18 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                                                </g>
-                                                            </svg>                                                                
-                                                        </span>
+                                                    <a href="{{ route('blog.index') }}" class="nav-links custom_cursor_orangeglow">Blogs
                                                     </a>
-                                                    <ul class="custome_dropdown custome_dropdown_4">
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links">Blogs Standard</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_10">
-                                                                <li class="nav-items">
-                                                                    <a href="blogs-standard.html" class="nav-links custom_cursor_orangeglow">Blogs Standard</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="blogs-standard-right-sidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Standard Right Sidebar</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="blogs-standard-left-sidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Standard Left Sidebar</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links">Blogs Listing</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_11">
-                                                                <li class="nav-items">
-                                                                    <a href="blogs-listing-v1.html" class="nav-links custom_cursor_orangeglow">Blogs Listing V1</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="blogs-listing-v2.html" class="nav-links custom_cursor_orangeglow">Blogs Listing V2</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links">Single Blog Right Sidebar</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_11">
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-standard-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Standard</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-gallery-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Gallery</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-video-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Video</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-youtube-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Youtube Video</a>
-                                                                </li>                                                                        
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-quote-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Quote</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-link-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Link</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-music-rightsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Music</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links">Single Blog Left Sidebar</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_11">
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-standard-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Standard</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-gallery-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Gallery</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-video-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Video</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-youtube-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Youtube Video</a>
-                                                                </li>                                                                        
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-quote-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Quote</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-link-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Link</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-music-leftsidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Music</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                        <li class="nav-items">
-                                                            <a href="javascript:void(0);" class="nav-links">Single Blog No Sidebar</a>
-                                                            <ul class="custome_inner_dropdown inner_dropdown_11">
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-standard-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Standard</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-gallery-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Gallery</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-video-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Video</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-youtube-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Youtube Video</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-quote-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Quote</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-link-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Link</a>
-                                                                </li>
-                                                                <li class="nav-items">
-                                                                    <a href="single-blog-music-nosidebar.html" class="nav-links custom_cursor_orangeglow">Blogs Music</a>
-                                                                </li>
-                                                            </ul>
-                                                        </li>
-                                                    </ul>
                                                 </li>
                                                 <li class="nav-items">
-                                                    <a href="{{ route('contact') }}" class="nav-links custom_cursor_orangeglow">Contact US</a>
+                                                    <a href="{{ route('contact') }}" class="nav-links custom_cursor_orangeglow">Contact</a>
                                                 </li>
                                             </ul>
-                                        </nav>
+                                        </nav> --}}
+                                        <nav>
+                                            <ul class="dasktop_navlist satoshi_fontfamily">
+                                                <li class="nav-items">
+                                                    <a href="{{ route('home') }}" class="nav-links custom_cursor_orangeglow {{ request()->routeIs('home') ? 'active' : '' }}">Home</a>
+                                                </li>
+                                                <li class="nav-items">
+                                                    <a href="{{ route('shop') }}" class="nav-links custom_cursor_orangeglow {{ request()->routeIs('shop') ? 'active' : '' }}">Programs</a>
+                                                </li>
+                                                <li class="nav-items">
+                                                    <a href="{{ route('service.index') }}" class="nav-links custom_cursor_orangeglow {{ request()->routeIs('service.index') ? 'active' : '' }}">Services</a>
+                                                </li>
+                                                <li class="nav-items">
+                                                    <a href="{{ route('blog.index') }}" class="nav-links custom_cursor_orangeglow {{ request()->routeIs('blog.index') ? 'active' : '' }}">Blogs</a>
+                                                </li>
+                                                <li class="nav-items">
+                                                    <a href="{{ route('contact') }}" class="nav-links custom_cursor_orangeglow {{ request()->routeIs('contact') ? 'active' : '' }}">Contact</a>
+                                                </li>
+                                            </ul>
+                                        </nav>                                        
                                     </div>
                                 </div>
                                 <div class="col-xl-2 col-6">
