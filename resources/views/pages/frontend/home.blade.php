@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="we_offer_info">
                                         <h5 class="satoshi_fontfamily_bold">Skilled Trainers</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Pellentesque donec in sit placerat tellus. Morbi fermentum non egestas ipsum at commodo semper. Tempor.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Our trainers are dedicated to guiding you through every step of your fitness journey. With expertise and passion, they ensure you get the most out of every session.</p>
                                     </div>
                                 </div>
                             </div>
@@ -133,8 +133,8 @@
                                         </svg>
                                     </div>
                                     <div class="we_offer_info">
-                                        <h5 class="satoshi_fontfamily_bold">Quality Equipment</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Dui consequat ante lectus risus. Dictum ac sodales nunc etiam. Sit lectus diam a nullam egestas.</p>
+                                        <h5 class="satoshi_fontfamily_bold">Personalized Coaching</h5>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Receive tailored coaching that fits your specific fitness needs. From strength training to flexibility, I focus on exercises that work best for you and your body type, helping you reach your goals faster.</p>
                                     </div>
                                 </div>
                             </div>
@@ -151,8 +151,8 @@
                                         </svg>
                                     </div>
                                     <div class="we_offer_info">
-                                        <h5 class="satoshi_fontfamily_bold">Shower Cabins</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Nam lorem viverra dui feugiat. Scelerisque senectus mi bibendum lacinia. Proin orci rhoncus amet risus.</p>
+                                        <h5 class="satoshi_fontfamily_bold">Goal-Oriented Workouts</h5>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">My training programs are designed with your personal goals in mind. Whether you're aiming for weight loss, muscle gain, improved stamina, or overall fitness, each session is tailored to push you closer to achieving those goals.</p>
                                     </div>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                                     </div>
                                     <div class="we_offer_info">
                                         <h5 class="satoshi_fontfamily_bold">Sport Nutrition</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Ultrices duis massa massa nulla non aliquet lorem. Pellentesque dapibus eget scelerisque duis diam fames eu.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Optimize your results with customized nutrition advice. I guide you in making informed choices about food and supplements to fuel your body for maximum performance and recovery.</p>
                                     </div>
                                 </div>
                             </div>
@@ -232,8 +232,8 @@
                             <div class="program_v1_detailcard p-60 bg_black h-100">
                                 <h4 class="color_white line_height_48" data-aos="fade-up" data-aos-anchor-placement="top-bottom">MEET OUR BEST PROGRAM FOR YOUR BEST RESULTS.</h4>
                                 <div class="program_v1_detailcard_info">
-                                    <p class="color_white line_height_30 satoshi_fontfamily fw_500" data-aos="fade-up" data-aos-anchor-placement="top-bottom">Gravida ut non cursus bibendum faucibus nibh magna. Pharetra sed cursus fermentum et semper amet varius orci etiam. Quis consectetur nunc sed diam.</p>
-                                    <p class="color_white line_height_30 satoshi_fontfamily fw_500" data-aos="fade-up" data-aos-anchor-placement="top-bottom">Sed commodo integer tincidunt neque tempus euismod id. Nam suspendisse cras velit egestas et. Quam adipiscing viverra curabitur vulputate mi faucibus.</p>                                         
+                                    <p class="color_white line_height_30 satoshi_fontfamily fw_500" data-aos="fade-up" data-aos-anchor-placement="top-bottom">Achieve your best results with a program designed for success. Focus on progress with a well-rounded approach that fits your needs. Consistency and dedication are key.</p>
+                                    <p class="color_white line_height_30 satoshi_fontfamily fw_500" data-aos="fade-up" data-aos-anchor-placement="top-bottom">Take control of your fitness journey with a program that adapts to you. Strengthen, build, and transform with expert guidance and a personalized plan.</p>                                         
                                 </div>
                                 <div class="program_v1_btn" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                                     <a href="our-program.html" class="orange_btn">
