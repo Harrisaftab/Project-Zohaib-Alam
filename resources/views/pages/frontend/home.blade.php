@@ -279,7 +279,7 @@
                                     </div>
                                     <div class="progress_step_info overflow-hidden">
                                         <h5 data-aos="fade-down">MOTIVATE</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack" data-aos="fade-up">Vulputate mi fringilla non mi urna feugiat id pellentesque fermentum. Sit ultricies eget mattis quis ornare. Hendrerit et in.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack" data-aos="fade-up">Strengthen your mindset with a focus on consistency and dedication. Push yourself beyond limits for lasting results.</p>
                                     </div>
                                 </div>
                             </div>
@@ -290,7 +290,7 @@
                                     </div>
                                     <div class="progress_step_info overflow-hidden">
                                         <h5 data-aos="fade-down">WORKOUT</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack" data-aos="fade-up">Est eget ullamcorper pharetra velit adipiscing faucibus adipiscing interdum porta. Elit vel laoreet senectus non.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack" data-aos="fade-up">Focus on building strength and endurance with a tailored workout plan. Train smart and achieve your fitness goals.</p>
                                     </div>
                                 </div>
                             </div>
@@ -301,7 +301,7 @@
                                     </div>
                                     <div class="progress_step_info overflow-hidden">
                                         <h5 data-aos="fade-down">RESULTS</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack" data-aos="fade-up">Etiam mi arcu quisque lacus tellus ornare malesuada posuere. Aliquam morbi aliquam quisque cras urna mus a sit.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack" data-aos="fade-up">Achieve your desired fitness transformation through discipline and proper guidance. Your hard work will show in the results.</p>
                                     </div>
                                 </div>
                             </div>
