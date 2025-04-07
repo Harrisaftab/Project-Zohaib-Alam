@@ -103,7 +103,7 @@
                     <div class="we_offer_area pt-60">
                         <div class="row">
                             <div class="col-xl-3 col-lg-4 col-sm-6">
-                                <div class="we_offer_box reveal custom_zoom_in">
+                                <div class="we_offer_box reveal custom_zoom_in text-start">
                                     <div class="we_offer_icon">
                                         <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
@@ -121,7 +121,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6">
-                                <div class="we_offer_box reveal custom_zoom_in">
+                                <div class="we_offer_box reveal custom_zoom_in text-start">
                                     <div class="we_offer_icon">
                                         <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
@@ -139,7 +139,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-3 col-sm-6 d-xl-block d-lg-none d-block">
-                                <div class="we_offer_box reveal custom_zoom_in">
+                                <div class="we_offer_box reveal custom_zoom_in text-start">
                                     <div class="we_offer_icon">
                                         <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
@@ -157,7 +157,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-6">
-                                <div class="we_offer_box reveal custom_zoom_in">
+                                <div class="we_offer_box reveal custom_zoom_in text-start">
                                     <div class="we_offer_icon">
                                         <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <mask style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
