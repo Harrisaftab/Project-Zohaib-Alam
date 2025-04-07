@@ -338,7 +338,7 @@
                             </svg>                                        
                         </span>
                     </a>
-                    <img src="assets/images/dummy-img/video_img_1.png" alt="traning_video" class="h-100">
+                    <img src="assets/images/dummy-img/video-1.png" alt="traning_video" class="h-100">
                 </div>
             </div>
         </div>
