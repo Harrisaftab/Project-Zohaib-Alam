@@ -3387,7 +3387,7 @@ button.shareButton.main {
 }
 /* ============================== Client-Say Slider ============================== */
 .client_say_slider_v1_bg {
-    background-image: url(../images/dummy-img/testimonial_img_1.png);
+    background-image: url(../images/dummy-img/testi-1.png);
     background-size: cover;
     position: relative;
     z-index: 0;
