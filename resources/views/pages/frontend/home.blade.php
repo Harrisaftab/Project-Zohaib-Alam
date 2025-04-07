@@ -275,7 +275,7 @@
                             <div class="col-lg-4">
                                 <div class="our_progress_box text-center">
                                     <div class="progress_img position-relative" data-aos="zoom-in" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-delay="100">
-                                        <img src="assets/images/dummy-img/progress_img_01.png" alt="progress_img" class="progress_img_pera">
+                                        <img src="assets/images/dummy-img/progress-img-01.png" alt="progress_img" class="progress_img_pera">
                                     </div>
                                     <div class="progress_step_info overflow-hidden">
                                         <h5 data-aos="fade-down">MOTIVATE</h5>
@@ -286,7 +286,7 @@
                             <div class="col-lg-4">
                                 <div class="our_progress_box text-center">
                                     <div class="progress_img position-relative" data-aos="zoom-in" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-delay="300">
-                                        <img src="assets/images/dummy-img/progress_img_01.png" alt="progress_img" class="progress_img_pera">
+                                        <img src="assets/images/dummy-img/progress-img-02.png" alt="progress_img" class="progress_img_pera">
                                     </div>
                                     <div class="progress_step_info overflow-hidden">
                                         <h5 data-aos="fade-down">WORKOUT</h5>
@@ -297,7 +297,7 @@
                             <div class="col-lg-4">
                                 <div class="our_progress_box text-center">
                                     <div class="progress_img position-relative" data-aos="zoom-in" data-aos-offset="100" data-aos-easing="ease-in-sine" data-aos-delay="500">
-                                        <img src="assets/images/dummy-img/progress_img_01.png" alt="progress_img" class="progress_img_pera">
+                                        <img src="assets/images/dummy-img/progress-img-03.png" alt="progress_img" class="progress_img_pera">
                                     </div>
                                     <div class="progress_step_info overflow-hidden">
                                         <h5 data-aos="fade-down">RESULTS</h5>
