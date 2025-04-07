@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="we_offer_info">
                                         <h5 class="satoshi_fontfamily_bold">Skilled Trainers</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Our trainers are dedicated to guiding you through every step of your fitness journey. With expertise and passion, they ensure you get the most out of every session.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Our dedicated trainers guide you through each step of your fitness journey. With deep expertise and passion for fitness, they ensure you get the maximum benefit from every session, empowering you.</p>
                                     </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@
                                     </div>
                                     <div class="we_offer_info">
                                         <h5 class="satoshi_fontfamily_bold">Personalized Coaching</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Receive tailored coaching that fits your specific fitness needs. From strength training to flexibility, I focus on exercises that work best for you and your body type, helping you reach your goals faster.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Receive coaching tailored specifically to your fitness needs. From strength training to flexibility, I provide exercises that work best for you, helping you achieve your goals faster and more effectively.</p>
                                     </div>
                                 </div>
                             </div>
@@ -152,7 +152,7 @@
                                     </div>
                                     <div class="we_offer_info">
                                         <h5 class="satoshi_fontfamily_bold">Goal-Oriented Workouts</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">My training programs are designed with your personal goals in mind. Whether you're aiming for weight loss, muscle gain, improved stamina, or overall fitness, each session is tailored to push you closer to achieving those goals.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">My training programs are designed with your personal fitness goals in mind. Whether it's weight loss, muscle gain, or improving stamina, each workout is carefully crafted to push you closer to success.</p>
                                     </div>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@
                                     </div>
                                     <div class="we_offer_info">
                                         <h5 class="satoshi_fontfamily_bold">Sport Nutrition</h5>
-                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Optimize your results with customized nutrition advice. I guide you in making informed choices about food and supplements to fuel your body for maximum performance and recovery.</p>
+                                        <p class="satoshi_fontfamily fw_500 line_height_30 color_lightblack">Enhance your results with customized nutrition advice. I help you make informed food choices and use supplements to fuel your body for peak performance, optimal results, and faster recovery during training.</p>
                                     </div>
                                 </div>
                             </div>
