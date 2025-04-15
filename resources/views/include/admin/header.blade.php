@@ -32,7 +32,7 @@
                         </button>
                     </div>
     
-                    <h4 class="mb-sm-0 header-item page-title lh-base">Doctors Dashboard</h4>
+                    <h4 class="mb-sm-0 header-item page-title lh-base"> Dashboard</h4>
                 </div>
     
                 <div class="d-flex align-items-center">
@@ -522,22 +522,25 @@
     </div><!-- /.modal -->            
     <ul class="nav nav-underline menu-tabs flex-nowrap overflow-x-auto" id="menu-tabs">
         <li class="nav-item flex-shrink-0">
-            <a class="nav-link" aria-current="page" href="index.html">Dashboard</a>
+            <a class="nav-link" aria-current="page" href="dashboard.html">Dashboard</a>
         </li>
         <li class="nav-item flex-shrink-0">
-            <a class="nav-link" href="doctor-appointments.html">Appointments</a>
+            <a class="nav-link" href="orders.html">Orders</a>
         </li>
         <li class="nav-item flex-shrink-0">
-            <a class="nav-link" href="doctor-staff-list.html">Staff List</a>
+            <a class="nav-link" href="programs.html">Programs</a>
         </li>
         <li class="nav-item flex-shrink-0">
-            <a class="nav-link" href="doctor-list.html">Doctors</a>
+            <a class="nav-link" href="services.html">Services</a>
         </li>
         <li class="nav-item flex-shrink-0">
-            <a class="nav-link" href="doctor-patients.html">Patients</a>
+            <a class="nav-link" href="blogs.html">Blogs</a>
         </li>
         <li class="nav-item flex-shrink-0">
-            <a class="nav-link" href="doctor-department.html">Department</a>
+            <a class="nav-link" href="ebooks.html">E-books</a>
         </li>
-    </ul>
+        <li class="nav-item flex-shrink-0">
+            <a class="nav-link" href="contact.html">Contact</a>
+        </li>
+    </ul>    
 </div>
