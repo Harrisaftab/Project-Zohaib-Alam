@@ -7,6 +7,9 @@ use App\Http\Controllers\Frontend\ContactController;
 use App\Http\Controllers\Frontend\BlogController;
 use App\Http\Controllers\Frontend\ServiceController;
 use App\Http\Controllers\Frontend\ShopController;
+use App\Http\Controllers\Admin\DashboardController;
+use App\Http\Controllers\Admin\ProductController;
+use App\Http\Controllers\Admin\ServicesController;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
@@ -18,17 +21,9 @@ Route::get('/programs', [ShopController::class, 'index'])->name('shop');
 // Route::get('/blog/{slug}', [BlogController::class, 'detail'])->name('blog.detail');
 // Admin Routes (Protected)
 Route::middleware(['auth', 'verified'])->prefix('admin')->group(function () {
-    Route::get('/dashboard', function () {
-        return view('admin.dashboard');
-    })->name('admin.dashboard');
-
-    Route::get('/products', function () {
-        return view('admin.products');
-    })->name('admin.products');
-
-    Route::get('/services', function () {
-        return view('admin.services');
-    })->name('admin.services');
+    Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
+    Route::get('/products', [ProductController::class, 'index'])->name('admin.products');
+    Route::get('/services', [ServicesController::class, 'index'])->name('admin.services');
 });
 
 // Profile Routes (Protected)

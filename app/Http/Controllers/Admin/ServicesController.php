@@ -5,10 +5,10 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class ProductController extends Controller
+class ServicesController extends Controller
 {
     public function index()
     {
-        return view('pages.admin.products');
+        return view('pages.admin.services');
     }
 }
